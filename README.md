@@ -5,6 +5,7 @@ In our project we will perform sentiment analysis on twitter and detect the hate
 
 # Objective:
 There are around 500 million messages and posts created on the platform daily and thus the job of filtering toxic content and offensive language is a difficult task. Due to the ongoing battles with hate speech which include dialogues related to sexism, racism, etc. we intend to decipher what can be classified to be hate speech and what cannot be.
+
 ➢ Our project aims to detect offensive speech in order to prevent the spreading of hate/toxic content over social media.
 ➢ Our project, thus will be helpful to act as a surveillance system so as to keep a check on the offensive messages/tweets on twitter.
 ➢ So, in this project, we plan to create a system using a learning approach to automatically classify tweets on Twitter into offensive speech and non-offensive.
