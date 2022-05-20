@@ -3,13 +3,13 @@ Sentiment Analysis has become essential business wise as well as socially so as 
 
 In our project we will perform sentiment analysis on twitter and detect the hate speech on tweets by using machine learning models. Twitter is an information network and communication mechanism that produces more than millions of tweets a day. The Twitter platform offers access to that corpus of data, via the APIs. Each API represents a facet of Twitter, and allows developers to build upon and extend their applications in new and creative ways. The Twitter API allows one to access the features of Twitter without having to go through the website interface. This can be useful for doing things like posting tweets or sending directed messages in an automated way with scripts. So, we will be using the twitter dataset which will be extracted from twitter API using an extractor and then carry out the methodologies and perform the ML algorithms.
 
-Objective:
+#Objective:
 There are around 500 million messages and posts created on the platform daily and thus the job of filtering toxic content and offensive language is a difficult task. Due to the ongoing battles with hate speech which include dialogues related to sexism, racism, etc. we intend to decipher what can be classified to be hate speech and what cannot be.
 ➢ Our project aims to detect offensive speech in order to prevent the spreading of hate/toxic content over social media.
 ➢ Our project, thus will be helpful to act as a surveillance system so as to keep a check on the offensive messages/tweets on twitter.
 ➢ So, in this project, we plan to create a system using a learning approach to automatically classify tweets on Twitter into offensive speech and non-offensive.
 
-Methodology
+#Methodology:
 1. The first step of building our model was to balance the number of hate and non-hate tweets.
 2. We clean the tweets by employing lemmatization, stemming, removal of stop words, and omissions.
 3. Then for the pre-processing step, we use Bag of words and Term Frequency Inverse Document Frequency (TFIDF). 
